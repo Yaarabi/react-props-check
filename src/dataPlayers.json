@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Cristiano Ronaldo",
+      "image": "/assets/download.jpg",
+      "description": "Portuguese footballer known for his incredible goal-scoring ability and multiple Ballon d'Or titles. He has played for clubs like Manchester United, Real Madrid, and Juventus.",
+      "team": "Al-Nassr",
+      "nationality": "Portugal",
+      "jerseyNumber": 7,
+      "age": 40
+    },
+    {
+      "name": "Lionel Messi",
+      "image": "/assets/leo.jpg",
+      "description": "Argentine footballer regarded as one of the greatest of all time. He has won multiple Ballon d'Or awards and led Argentina to a FIFA World Cup victory.",
+      "team": "Inter Miami",
+      "nationality": "Argentina",
+      "jerseyNumber": 10,
+      "age": 37
+    },
+    {
+      "name": "Kylian Mbappé",
+      "image": "/assets/kilyan.jpg",
+      "description": "French footballer known for his speed and technical skills. He has played for Paris Saint-Germain and Real Madrid, winning multiple domestic and international titles.",
+      "team": "Real Madrid",
+      "nationality": "France",
+      "jerseyNumber": 9,
+      "age": 26
+    },
+    {
+      "name": "Zlatan Ibrahimović",
+      "image": "/assets/download (1).jpg",
+      "description": "Swedish footballer famous for his acrobatic goals and strong personality. He has played for clubs like AC Milan, Barcelona, and Paris Saint-Germain.",
+      "team": "Retired (Last club: AC Milan)",
+      "nationality": "Sweden",
+      "jerseyNumber": 11,
+      "age": 43
+    }
+  ]
+  

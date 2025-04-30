@@ -1,0 +1,23 @@
+.players{
+    display:  flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    height: 75vh;
+    width: 20vw;
+    background-color: rgb(179, 182, 184);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: transform 0.3s;
+    img{
+        height: 50%;
+        width: 100%;
+        border-radius: 10px 10px 0 0 ;
+        
+    }
+}
+.card:hover {
+    transform: scale(1.07);
+}
